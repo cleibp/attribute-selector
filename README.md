@@ -25,7 +25,7 @@ Exemplificação de Attribute Selector
 ```sh
 .
 ├── README.md
-└── index.html
+├── index.html
 └── style.css
 ```
 
